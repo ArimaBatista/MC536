@@ -11,3 +11,9 @@
 ![image](https://user-images.githubusercontent.com/80778627/131065693-34266554-1319-4aa8-acb8-11f9c64126e2.png)
 
 
+
+## Possivel forma de relacionar os dados
+file:///home/arima/%C3%81rea%20de%20Trabalho/1234.jpeg![image](https://user-images.githubusercontent.com/80778627/131195050-c2c65705-e861-4ff1-8f2e-0b6d2a2293c5.png)
+
+
+
